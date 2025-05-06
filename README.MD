@@ -1,4 +1,5 @@
 <h1>Projeto: Número Secreto</h1>
+<p>Link: https://lucasemanuel982.github.io/Game-adivinha--o/</p>
 <p>O jogo "Número Secreto" é uma aplicação interativa onde o usuário deve adivinhar um número gerado aleatoriamente. Através do reconhecimento de fala, o usuário pode inserir seus palpites e receber dicas sobre o quão perto está do número correto.</p>
 
 <h2>Funcionalidades</h2>
@@ -24,7 +25,9 @@
 1. Clone este repositório:
    <code>git clone https://github.com/lucasemanuel982/Game-adivinha--o.git</code>
 
-2. Abra o arquivo <code>index.html</code> em um navegador moderno.
+2. Abra o arquivo <code>index.html</code>
+2. Habilite o microfone
+2. Informe o número.
 </pre>
 
 <h2>Estrutura do Projeto</h2>
