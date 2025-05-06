@@ -22,12 +22,9 @@
 <h2>Como Executar o Projeto</h2>
 <pre>
 1. Clone este repositório:
-   <code>git clone https://github.com/seu_usuario/nome_do_repositorio.git</code>
+   <code>git clone https://github.com/lucasemanuel982/Game-adivinha--o.git</code>
 
-2. Navegue até a pasta do projeto:
-   <code>cd nome_do_repositorio</code>
-
-3. Abra o arquivo <code>index.html</code> em um navegador moderno.
+2. Abra o arquivo <code>index.html</code> em um navegador moderno.
 </pre>
 
 <h2>Estrutura do Projeto</h2>
